@@ -5,8 +5,6 @@
 # Salesforce cache
 .sfdx/
 .localdevserver/
-.sfdx
-.vscode
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
@@ -16,7 +14,7 @@ coverage/
 
 # SOQL Query Results
 **/scripts/soql/query-results
-dsafdsf
+
 # Logs
 logs
 *.log
